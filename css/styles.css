@@ -140,14 +140,15 @@ body {
     box-shadow: none;
     overflow: visible;
     margin: 15px auto 7px;
+    display: flex;
+    align-items: center;
 }
 
 .progress-bar{
-    height: 15px;
+    height: 16px;
     border-radius: 30px;
     box-shadow: none;
     position: relative;
-    top: 1.5px;
     left: 1.5px;
     width: 81.5%;
     background: linear-gradient(to right, #FFA399, #FF4D97);
