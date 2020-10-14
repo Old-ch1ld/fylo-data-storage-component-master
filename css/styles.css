@@ -147,7 +147,7 @@ body {
     border-radius: 30px;
     box-shadow: none;
     position: relative;
-    top: 1px;
+    top: 1.5px;
     left: 1.5px;
     width: 81.5%;
     background: linear-gradient(to right, #FFA399, #FF4D97);
